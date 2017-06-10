@@ -23,6 +23,10 @@ export {
 } from "./Polygon";
 
 export {
+  default as Geojson,
+} from "./Geojson";
+
+export {
   default as Circle,
 } from "./Circle";
 
